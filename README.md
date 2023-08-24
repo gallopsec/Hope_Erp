@@ -7,3 +7,4 @@ Usage:
   python3 Hope_Erp.py -h
 ```
 ![示例](https://github.com/gallopsec/Hope_Erp/blob/main/514022f0a855191ae244ff641b7ef0b.png)
+![示例](https://github.com/gallopsec/Hope_Erp/blob/main/a9a67ffc24e3ce61b4e1c5145a0c877.png)
